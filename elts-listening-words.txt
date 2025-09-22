@@ -3,18 +3,18 @@ vegetarian
 balcony
 facility
 furniture
-sitting room /ˈsɪtɪŋ ruːm/ （BrE）起居室；客厅
+sitting room /ˈsɪtɪŋ ruːm/ 起居室；客厅
 lounge /laʊndʒ/ 休息室；候车室；候机厅
-rural /ˈrʊərəl/ 乡下的（2015.11.21 号第 34 题）
-cabinet /ˈkæbɪnət/ 橱柜（2015.9.3 号第 16 题）
-occupant /ˈɒkjəpənt/ 居住者；住户（2019.6.1 号第 29 题）
+rural /ˈrʊərəl/ 乡下的
+cabinet /ˈkæbɪnət/ 橱柜
+occupant /ˈɒkjəpənt/ 居住者；住户
 studio flat /ˈstjuːdiəʊ flæt/ （BrE）单间公寓
 self-contained /ˌself kənˈteɪnd/ （公寓）独门独户的；带厨卫设施的
-catering /ˈkeɪtərɪŋ/ 提供饮食（2015.9.19 号第 9 题，2021.10.30 号第 28 题）
+catering /ˈkeɪtərɪŋ/ 提供饮食
 bedsit /ˈbedsɪt/ 客厅卧室一体=bedsitting room
 lawn /lɔːn/ 草坪
 refurbishment /ˌriːˈfɜːbɪʃmənt/ 翻新；整修
-unfurnished /ʌnˈfɜːnɪʃt/ 未配备家具的（2015.9.3 号第 5 题）
+unfurnished /ʌnˈfɜːnɪʃt/ 未配备家具的
 cooker /ˈkʊkə(r)/ （BrE）炊具=stove（AmE）
 palmtop /ˈpɑːmtɒp/ 掌上电脑 
 landlady /ˈlændleɪdi/ 女房东
@@ -22,13 +22,13 @@ tenant /ˈtenənt/ 房客
 lodger /ˈlɒdʒə(r)/ 寄宿者
 receptionist /rɪˈsepʃənɪst/ 接待员
 journalist /ˈdʒɜːnəlɪst/ 新闻工作者
-clinic /ˈklɪnɪk/ 诊所（2022.1.15 号第 3 题）
+clinic /ˈklɪnɪk/ 诊所
 trousers /ˈtraʊzəz/ 裤子
-dentist /ˈdentɪst/ 牙医（2015.9.3 号第 4 题）
-laboratory /ləˈbɒrətri/ 实验室（2016.1.23 号第 34 题）
+dentist /ˈdentɪst/ 牙医
+laboratory /ləˈbɒrətri/ 实验室
 museum /mjuˈziːəm/ 博物馆
 temporary /ˈtemprəri/ 暂时的；临时的
-permanent /ˈpɜːmənənt/ 永久的；长久的（2022.4.9 号第 5 题）
+permanent /ˈpɜːmənənt/ 永久的；长久的
 recruitment /rɪˈkruːtmənt/ 招聘
 tie /taɪ/ 领带
 dress /dres/ 连衣裙	
@@ -40,93 +40,93 @@ reserve /rɪˈzɜːv/ 预定；自然保护区
 appointment /əˈpɔɪntmənt/ 预约
 Tourist Attraction /ˈtʊərɪst əˈtrækʃn/ 旅游景点
 palace /ˈpæləs/ 宫殿
-concert /ˈkɒnsət/ 音乐会（2017.1.21 号第 18 题，2021.12.18 号第 8 题）
+concert /ˈkɒnsət/ 音乐会
 temple /ˈtempl/ 寺庙
-beach /biːtʃ/ 沙滩（2015.11.14 号第 16 题，2016.1.30 第 5 题，2017.1.14 第 4 题） 
-coast /kəʊst/ 海岸（2015.12.12 号第 12 题）
-fountain /ˈfaʊntən/ 喷泉（2021.3.27 号第 39 题）
+beach /biːtʃ/ 沙滩 
+coast /kəʊst/ 海岸
+fountain /ˈfaʊntən/ 喷泉
 tide /taɪd/ 潮汐
-cinema /ˈsɪnəmə/ 电影院（2022.5.21 号第 8 题）
+cinema /ˈsɪnəmə/ 电影院
 tower /ˈtaʊə(r)/ 塔
-ocean /ˈəʊʃn/ 海洋（2016.12.10 号第 33 题）
+ocean /ˈəʊʃn/ 海洋
 hill /hɪl/ 小山
-habitat /ˈhæbɪtæt/ 栖息地（2015.2.28 号第 39 题，9.3 号第 31 题）
+habitat /ˈhæbɪtæt/ 栖息地
 hostel /ˈhɒstl/ 旅社
-cycling /ˈsaɪklɪŋ/ 骑自行车（2016.1.30 号第 10 题、2.20 号第 37 题，2021.5.20 号第 9 题）
-sailing /ˈseɪlɪŋ/ 帆船运动（2016.1.30 第 2 题，2021.7.31 第 10 题，2022.2.12 第 3 题）
+cycling /ˈsaɪklɪŋ/ 骑自行车
+sailing /ˈseɪlɪŋ/ 帆船运动
 plane /pleɪn/ 飞机
 helicopter /ˈhelɪkɒptə(r)/ 直升飞机
-picnic /ˈpɪknɪk/ 野餐（2014.7.10 号第 12 题，2021.10.30 号第 6 题）
+picnic /ˈpɪknɪk/ 野餐
 jazz /dʒæz/ 爵士乐
 play /pleɪ/ 戏剧
 pianist /ˈpiːənɪst/ 钢琴师
 violinist /ˌvaɪəˈlɪnɪst/ 小提琴手
-flute /fluːt/ 笛子（2021.3.13 号第 4 题）
+flute /fluːt/ 笛子
 festival /ˈfestɪvl/ 节日 dance /dɑːns/ 舞蹈
-exhibition /ˌeksɪˈbɪʃn/ 展览（2015.4.30	3 题，2017.1.14 号第 13 题，2021.7.10 号第 33 题，2022.9.10 日第 35 题）
+exhibition /ˌeksɪˈbɪʃn/ 展览
 windy /ˈwɪndi/ 多风的
 climate /ˈklaɪmət/ 气候
-entrance /ˈentrəns/ 入口（2017.1.7 号第 15 题）
+entrance /ˈentrəns/ 入口
 past /pɑːst/ 路经；经过
 fare /feə(r)/ 票价
 discount
 seat reservation /siːt ˌrezəˈveɪʃn/ 定座 
-peak season /piːk ˈsiːzn/ 旺季（2015.6.27 号第 2 题）
-resort /rɪˈzɔːt/ 度假胜地（2022.8.13 日第 11 题）
+peak season /piːk ˈsiːzn/ 旺季
+resort /rɪˈzɔːt/ 度假胜地
 cathedral /kəˈθiːdrəl/ 大教堂\
-art gallery /ɑːt ˈɡæləri/ 美术馆（2016.12.17 号第 24 题，2021.5.22 号第 32 题）
-orchard /ˈɔːtʃəd/ 果园（2022.2.12 号第 17 题）
-grocery /ˈɡrəʊsəri/ 食品杂货店（2021.6.26 号第 4 题）
-cottage /ˈkɒtɪdʒ/ 村舍；农舍；乡间小别墅（2021.8.14 号第 9 题，2022.3.12 号第 18 题）
-rainforest /ˈreɪnfɒrɪst/ 雨林（2014.7.10 号第 11 题）
-booklet /ˈbʊklət/ 小册子（2021.8.7 号第 8 题）
+art gallery /ɑːt ˈɡæləri/ 美术馆
+orchard /ˈɔːtʃəd/ 果园
+grocery /ˈɡrəʊsəri/ 食品杂货店
+cottage /ˈkɒtɪdʒ/ 村舍；农舍；乡间小别墅
+rainforest /ˈreɪnfɒrɪst/ 雨林
+booklet /ˈbʊklət/ 小册子
 brochure /ˈbrəʊʃə(r)/ 资料手册；广告手册
 jogging /ˈdʒɒɡɪŋ/ 慢跑
 badminton /ˈbædmɪntən/ 羽毛球
 trousers /ˈtraʊzəz/ 裤子
 sunshade /ˈsʌnʃeɪd/ 遮阳伞
 mineral water /ˈmɪnərəl ˈwɔːtə(r)/ 矿物质水
-barbecue /ˈbɑːbɪkjuː/ 烧烤（2015.9.12 号第 17 题答案）
-cookery /ˈkʊkəri/ 烹饪（2021.10.16 号第 13 题，2022.2.12 号第 7 题）
+barbecue /ˈbɑːbɪkjuː/ 烧烤
+cookery /ˈkʊkəri/ 烹饪
 clarinet /ˌklærəˈnet/ 单簧管 
 oboe /ˈəʊbəʊ/ 双簧管
 orchestra /ˈɔːkɪstrə/ 管弦乐队
-drought /draʊt/ 干旱（2019.12.12 号第 32 题）
+drought /draʊt/ 干旱
 plan /plæn/ 平面图
 circular /ˈsɜːkjələ(r)/ 圆形的 
 rectangle /ˈrektæŋɡl/ 长方形 
 rectangular /rekˈtæŋɡjələ(r)/ 长方形的 
-triangle /ˈtraɪæŋɡl/ 三角形（2021.2.25 号第 32 题）
+triangle /ˈtraɪæŋɡl/ 三角形
 intersection /ˌɪntəˈsekʃn/ （AmE）十字路口
 junction /ˈdʒʌŋkʃn/ （BrE）（公路或铁路的）交叉路口 
 bend /bend/ 拐角
 pavement /ˈpeɪvmənt/ （BrE）人行道 sidewalk /ˈsaɪdwɔːk/ （AmE）人行道 footpath /ˈfʊtpɑːθ/ 人行小道
 pedestrian /pəˈdestriən/ 行人
 winding /ˈwaɪndɪŋ/ 蜿蜒曲折的
-architecture /ˈɑːkɪtektʃə(r)/ 建筑学（2021.5.29 号第 39 题）
+architecture /ˈɑːkɪtektʃə(r)/ 建筑学
 agriculture /ˈæɡrɪkʌltʃə(r)/ 农业
 intermediate /ˌɪntəˈmiːdiət/ 中级的
-diploma /dɪˈpləʊmə/ 文凭（2015.1.17 号、11.7 号第 21 题，2021.1.23 号第 21 题）
+diploma /dɪˈpləʊmə/ 文凭
 institute /ˈɪnstɪtjuːt/ 学院
 primary school /ˈpraɪməri skuːl/ 小学
 secondary school/ˈsekəndri skuːl/ 中学
-seminar /ˈsemɪnɑː(r)/ 研讨班（2021.4.10 号第 22 题，2022.7.23 号第 30 题）
-conference /ˈkɒnfərəns/ 会议，研讨会（2021.11.6 号第 4 题，2022.5.21 号第 1 题、11.19 号第 2 题）
+seminar /ˈsemɪnɑː(r)/ 研讨班
+conference /ˈkɒnfərəns/ 会议，研讨会
 variety /vəˈraɪəti/ 品种
-flexible /ˈfleksəbl/ 可变通的，灵活的（2021.7.31 号第 34 题，2022.5.21 号第 23 题） 
+flexible /ˈfleksəbl/ 可变通的，灵活的 
 press /pres/ n.报刊；出版社 v.按；压
-diary /ˈdaɪəri/ 日记（2022.3.12 号第 33 题）
+diary /ˈdaɪəri/ 日记
 quiz /kwɪz/ 小测验
 drawback /ˈdrɔːbæk/ 缺点
-practical /ˈpræktɪkl/ 实际的；切实可行的（2015.8.8 号第 35 题，2016.2.18 号第 25 题）
+practical /ˈpræktɪkl/ 实际的；切实可行的
 **  Faculty/Staff /ˈfæklti stɑːf/ 全体教工
 stadium /ˈsteɪdiəm/ （露天）体育馆理科学习词汇
 **  current /ˈkʌrənt/ 水流，电流
 lighting /ˈlaɪtɪŋ/ 照明
-rubber /ˈrʌbə/ 橡胶；橡皮（2017.1.12 号第 33 题，2021.6.12 号第 6 题）
-paint /peɪnt/ 油漆（2016.12.10 号第 11 题）
-electricity /ɪˌlekˈtrɪsəti/ 电（2015.5.16 号第 15 题）
-irrigation /ˌɪrɪˈɡeɪʃn/ n.灌溉（2014.3.15 号，2015.12.12 号第 32 题，2021.1.30 号第 33）
+rubber /ˈrʌbə/ 橡胶；橡皮
+paint /peɪnt/ 油漆
+electricity /ɪˌlekˈtrɪsəti/ 电
+irrigation /ˌɪrɪˈɡeɪʃn/ n.灌溉
 litter /ˈlɪtə/ （在公共场所乱扔的）垃圾，废弃物
 litre/liter /ˈliː tə/ 升（容量单位，等于英国的 1.76 品脱或美国的 2.11 品脱）
 mammal /ˈmæml/ 哺乳动物
@@ -135,35 +135,35 @@ injure /ˈɪndʒə/ v.使受伤 injury /ˈɪndʒəri/ n.伤害
 atmosphere /ˈætməsfɪə/ 大气
 Studies of Arts /ˈstʌdiz əv ɑː ts/ 文科学习
 intelligence /ɪnˈtelɪdʒəns/ 智力
-confidence /ˈkɒnfɪdəns/ 信心（2016.1.14 号第 10 题，2017.1.21 号第 31 题，2022.2.12 号） 
+confidence /ˈkɒnfɪdəns/ 信心 
 confident /ˈkɒnfɪdənt/ 自信的；有信心的
 description /dɪˈskrɪpʃn/ 描述
-tradition /trəˈdɪʃn/ 传统 traditional /trəˈdɪʃənl/ 传统的（2016.12.3 号第 36 题）
+tradition /trəˈdɪʃn/ 传统 traditional /trəˈdɪʃənl/ 传统的
 consumption /kənˈsʌmpʃn/ 消费；消耗；食用；饮用
 crisis /ˈkraɪsɪs/ 危机
-gene /dʒiː n/ 基因（2014.7.10 号第 40 题）
-habitat /ˈhæbɪtæt/ 栖息地（2015.9.3 号第 31 题）
-individual /ˌɪndɪˈvɪdʒuəl/ 个人；个体（2015.8.1 号第 11 题）
+gene /dʒiː n/ 基因
+habitat /ˈhæbɪtæt/ 栖息地
+individual /ˌɪndɪˈvɪdʒuəl/ 个人；个体
 personality /ˌpɜː səˈnæləti/ 个性，性格
 capital /ˈkæpɪtl/ 资本；首都；大写字母
 construction /kənˈstrʌkʃn/ 建设
-competition /ˌkɒmpəˈtɪʃn/ 竞争；竞赛（2022.10.8 日第 40 题，2022.11.26 号第 35 题） 
+competition /ˌkɒmpəˈtɪʃn/ 竞争；竞赛 
 responsibility /rɪˌspɒnsəˈbɪləti/ 责任
-conservation /ˌkɒnsəˈveɪʃn/ 保护（2015.2.28 号第 31 题，2021.4.17 号第 27 题）
+conservation /ˌkɒnsəˈveɪʃn/ 保护
 classical /ˈklæsɪkl/ （音乐）古典的
 diamond /ˈdaɪəmənd/ 钻石；菱形
 frequent /ˈfriː kwənt/ 频繁的
-frequency /ˈfriː kwənsi/ 频率（2021.9.11 号第 37 题）
-reliable /rɪˈlaɪəbl/ 可靠的（2015.6.6 号第 13 题，2016.5.7 号第 25 题）
+frequency /ˈfriː kwənsi/ 频率
+reliable /rɪˈlaɪəbl/ 可靠的
 democratic /ˌdeməˈkrætɪk/ 民主的
-expectation /ˌekspekˈteɪʃn/ 期望（2019.8.24 号第 38 题）
-plate /pleɪt/ 盘子（2016.12.17 号第 8 题）
+expectation /ˌekspekˈteɪʃn/ 期望
+plate /pleɪt/ 盘子
 confusion /kənˈfjuː ʒn/ 困惑；混淆
-tourism /ˈtʊərɪzəm/ 旅游业（2015.11.7 号第 12 题，2015.12.12 号第 11 题）
-poverty /ˈpɒvəti/ 贫穷（2019.8.24 号第 32 题，2020.12.20 号第 40 题）
+tourism /ˈtʊərɪzəm/ 旅游业
+poverty /ˈpɒvəti/ 贫穷
 inspiration /ˌɪnspəˈreɪʃn/ 灵感
 anxiety /æŋˈzaɪəti/ 焦虑
-whistle /ˈwɪsl/ 口哨（2021.10.16 号第 34 题，2022.3.26 号第 38 题）
+whistle /ˈwɪsl/ 口哨
 delivery /dɪˈlɪvəri/ 分娩
 cattle /ˈkætl/ 牛
 amphibian /æmˈfɪbiən/ 两栖动物
@@ -171,102 +171,102 @@ insect /ˈɪnsekt/ 昆虫
 semester /sɪˈmestə/ 学期 
 minor /ˈmaɪnə/ 辅修 
 minors /ˈmaɪnəz/ 未成年人
-**  compulsory /kəmˈpʌlsəri/ （因法律或规则而）必须做的，强制的，强迫的（2022.5.21 第 21 题，7.23 第 22 题）
+**  compulsory /kəmˈpʌlsəri/ （因法律或规则而）必须做的，强制的，强迫的
 teaching approach /ˈtiː tʃɪŋ əˈprəʊtʃ/ 教学方法
 psychology /saɪˈkɒlədʒi/ 心理学
-chemist /ˈkemɪst/ 化学家（2021.7.24 号第 3 题） 
-medication /ˌmedɪˈkeɪʃn/ 药物（2022.1.15 号第 2 题）
+chemist /ˈkemɪst/ 化学家 
+medication /ˌmedɪˈkeɪʃn/ 药物
 Engineering
 mechanical
 qualification
 confirmation/ˌkɒnfəˈmeɪʃn/ 证实；确认书；证明书
-assignment /əˈsaɪnmənt/ 作业（2015.5.30 号第 25 题）
-written assignment /ˈrɪtn əˈsaɪnmənt/ 书面作业（2014.7.10 号第 26 题） 
-dissertation /ˌdɪsəˈteɪʃn/ 论文（2022.3.12 号第 30 题） essay /ˈeseɪ/ 小论文（2015.6.18 号第 24 题，2017.1.7 号第 21 题）
+assignment /əˈsaɪnmənt/ 作业
+written assignment /ˈrɪtn əˈsaɪnmənt/ 书面作业 
+dissertation /ˌdɪsəˈteɪʃn/ 论文 essay /ˈeseɪ/ 小论文
 tutorial
 workshop /ˈwɜː kʃɒp/ 研讨会
-presentation /ˌpreznˈteɪʃn/ 专题报告（2016.5.7 号第 30 题）
-oral presentation /ˈɔː rəl ˌpreznˈteɪʃn/ 口头报告；口头陈述；口头演讲（2015.6.18 号第 22 题）
-defence /dɪˈfens/ 防卫；答辩（2015.8.1 号第 36 题）
-definition /ˌdefɪˈnɪʃn/ 定义；清晰度（2017.1.14 号第 25 题，2021.5.20 号第 33 题）
-infrastructure /ˈɪnfrəstrʌktʃə/ （国家，社会，组织赖以行使职能的）基础设施（2021.7.17 号第 36 题）
-combination /ˌkɒmbɪˈneɪʃn/ 结合，联合（2019.7.27 号第 3 题）
-atlas /ˈætləs/ 地图册（2019.12.7 号第 37 题）
+presentation /ˌpreznˈteɪʃn/ 专题报告
+oral presentation /ˈɔː rəl ˌpreznˈteɪʃn/ 口头报告；口头陈述；口头演讲
+defence /dɪˈfens/ 防卫；答辩
+definition /ˌdefɪˈnɪʃn/ 定义；清晰度
+infrastructure /ˈɪnfrəstrʌktʃə/ （国家，社会，组织赖以行使职能的）基础设施
+combination /ˌkɒmbɪˈneɪʃn/ 结合，联合
+atlas /ˈætləs/ 地图册
 literature /ˈlɪtrətʃə/ 文学
-fiction /ˈfɪkʃn/ 小说（2016.2.20 号第 6 题）
+fiction /ˈfɪkʃn/ 小说
 proposal /prəˈpəʊzl/ 方案；提案
 scholarship /ˈskɒləʃɪp/ 奖学金 
 tuition /tjuˈɪʃn/ 学费
-handout /ˈhændaʊt/ 讲义（2022.3.12 号第 22 题）
-oral /ˈɔː rəl/ 口头的（2021.7.10 号第 34 题）
+handout /ˈhændaʊt/ 讲义
+oral /ˈɔː rəl/ 口头的
 minority /maɪˈnɒrəti/ 少数 
 assess /əˈses/ .v.评估 
 assessment /əˈsesmənt/ n.评估 
 evaluate /ɪˈvæljueɪt/ v.估计；评价；评估
-questionnaire /ˌkwestʃəˈneə/ 问卷调查（2013.12.14 号第 27 题，2015.8.8 号第 27 题）
+questionnaire /ˌkwestʃəˈneə/ 问卷调查
 Faculty / Staff /ˈfæklti/ / /stɑː f/ 全体教工
 Fitness Center / Workout Room / Keep-fit Studio /ˈfɪtnəs ˈsentə/ / /ˈwɜː kaʊt ruː m/ / /kiː p fɪt ˈstjuː diəʊ/ 健身中心
-documentation /ˌdɒkjumenˈteɪʃn/ 证明文件（2016.12.3 号第 34 题，2021.12.11 号第 34 题，2022.4.30 号第 34 题）
+documentation /ˌdɒkjumenˈteɪʃn/ 证明文件
 thermometer /θəˈmɒmɪtə/ 温度计；体温计
 diameter /daɪˈæmɪtə/ 直径
 vapour /ˈveɪpə/ 蒸汽
-evaporation /ɪˌvæpəˈreɪʃn/ 蒸发（2019.3.23 号第 36 题，2022.11.26 号第 37 题）
-omit /əˈmɪt/ 忽略；省去，删去；遗漏（=leave out） 
-photocopy /ˈfəʊtəʊkɒpi/ 复印件（2022.3.12 号第 21 题）
+evaporation /ɪˌvæpəˈreɪʃn/ 蒸发
+omit /əˈmɪt/ 忽略；省去，删去；遗漏 
+photocopy /ˈfəʊtəʊkɒpi/ 复印件
 journalism
-concrete /ˈkɒŋkriː t/ 混凝土；具体的（2021.5.29 号第 38 题，2022.11.5 日第 34 题） 
-cement /sɪˈment/ 水泥（2019.3.9 号第 36 题） 
+concrete /ˈkɒŋkriː t/ 混凝土；具体的 
+cement /sɪˈment/ 水泥 
 firewood /ˈfaɪəwʊd/ 木柴 
-textile /ˈtekstaɪl/ 纺织品（2021.10.23 号第 36 题）
+textile /ˈtekstaɪl/ 纺织品
 contaminant
 vegetation /ˌvedʒɪˈteɪʃn/ 植被 
 predator /ˈpredətə/ 捕食者
 waist /weɪst/ 腰 
 knee /niː / 膝盖
 muscle /ˈmʌsl/ 肌肉
-immune /ɪˈmjuː n/ 免疫的（2019.8.31 号第 31 题）
+immune /ɪˈmjuː n/ 免疫的
 skeleton /ˈskelɪtn/ 骨骼
 obesity /əʊˈbiː səti/ 肥胖症
 calorie /ˈkæləri/ 大卡，千卡（测量食物含热量的单位）
-protein /ˈprəʊtiː n/ 蛋白质（2016.4.30 号第 39 题，2019.3.2 号第 35 题，2021.10.9 号第 35 题） 
-mineral /ˈmɪnərəl/ 矿物质（2016.2.20 号第 26 题）
+protein /ˈprəʊtiː n/ 蛋白质 
+mineral /ˈmɪnərəl/ 矿物质
 greenhouse gas /ˈɡriː nhaʊs ɡæs/ 温室气体
 confidentiality /ˌkɒnfɪdenʃiˈæləti/ 机密
 fluent /ˈfluː ənt/ （尤指外语）流利的
 representative /ˌreprɪˈzentətɪv/ 代表，代表性的
 innovation  evolution
 anonymous /əˈnɒnɪməs/ 匿名的
-costume /ˈkɒstjuː m/ （戏剧或电影的）戏装，服装（2021.11.20 号第 30 题） consumer /kənˈsjuː mə/ 消费者 
-erosion /ɪˈrəʊʒn/ 侵蚀（2019.12.12 号第 33 题）
+costume /ˈkɒstjuː m/ （戏剧或电影的）戏装，服装 consumer /kənˈsjuː mə/ 消费者 
+erosion /ɪˈrəʊʒn/ 侵蚀
 annual
 private /ˈpraɪvət/ 私有的：私人的；个人的；秘密的
-privacy /ˈprɪvəsi/ 隐私（2015.8.8 第 39 题，2020.12.19 第 22 题，2021.3.4 第 36 题，2022.5.7 第 40 题）
+privacy /ˈprɪvəsi/ 隐私
 taxation /tækˈseɪʃn/ 税收 
 investor /ɪnˈvestə/ 投资者 investment /ɪnˈvestmənt/ 投资
 capitalism /ˈkæpɪtəlɪzəm/ 资本主义 
-claim /kleɪm/ 索赔（2016.5.7 号第 19 题）
+claim /kleɪm/ 索赔
 policy /ˈpɒləsi/ 保险单；政策
-compensation /ˌkɒmpenˈseɪʃn/ 补偿；补偿金（2019.7.20 号第 40 题，2022.4.23 号第 40 题）
+compensation /ˌkɒmpenˈseɪʃn/ 补偿；补偿金
 patent /ˈpeɪtnt/ 专利
 curved /kɜː vd/ 弧形的 
 repetition /ˌrepəˈtɪʃn/ n.重复
 juvenile /ˈdʒuː vənaɪl/ 少年
-pest /pest/ 害虫（2022.11.19 号第 39 题）
-antiseptic /ˌæntiˈseptɪk/ 消毒剂（2018.2.24 号第 40 题，2022.11.19 号第 40 题）
+pest /pest/ 害虫
+antiseptic /ˌæntiˈseptɪk/ 消毒剂
 spice /spaɪs/ 香料
 slavery /ˈsleɪvəri/ 奴隶制
-obligation /ˌɒblɪˈɡeɪʃn/ 义务（2019.8.24 号第 37 题）
-fertilizer/fertiliser /ˈfɜː təlaɪzə/ 化肥（2014.12.6 号和 13 号，2016.4.30 号第 34 题） fertility /fəˈtɪləti/ 肥沃；丰产（2020.3.5 号亚太考区第 39 题）
+obligation /ˌɒblɪˈɡeɪʃn/ 义务
+fertilizer/fertiliser /ˈfɜː təlaɪzə/ 化肥 fertility /fəˈtɪləti/ 肥沃；丰产
 maintenance
 preservation /ˌprezəˈveɪʃn/ 保护；保养；保存
 extinction /ɪkˈstɪŋkʃn/ （物种的）灭绝
-emperor /ˈempərə/ 皇帝（2021.10.23 号第 40 题）
+emperor /ˈempərə/ 皇帝
 parade /pəˈreɪd/ 游行；阅兵式
 premiere
 comic
 cosmetics
 migrate v.   immigration
-virtue /ˈvɜː tʃuː / 美德（注意区分 virtual）
+virtue /ˈvɜː tʃuː / 美德,注意区分 virtual
 regulation /ˌreɡjuˈleɪʃn/ 法规；条例
 jewellery/jewelry /ˈdʒuː əlri/ 珠宝首饰
 athlete
@@ -274,17 +274,17 @@ airline /ˈeəlaɪn/ 航空公司
 pleasant /ˈpleznt/ 令人愉快的 delighted /dɪˈlaɪtɪd/ 高兴的；欣喜的
 controversial /ˌkɒntrəˈvɜː ʃl/ 有争议的
 sufficient /səˈfɪʃnt/ 足够的
-efficiency /ɪˈfɪʃnsi/ 效率（2015.8.29 号第 37 题，2021.9.25 号第 37 题）
+efficiency /ɪˈfɪʃnsi/ 效率
 constant /ˈkɒnstənt/ （在某时段内）保持不变的；恒定的 
 consistent /kənˈsɪstənt/ 始终如一的；一致的
 trivial /ˈtrɪviəl/ 无关紧要的；不重要的；微不足道的 
 up-to-date /ˌʌp tə ˈdeɪt/ 最新的
 ambiguous /æmˈbɪɡjuəs/ 模棱两可的；含混不清的
 objective /əbˈdʒektɪv/ 客观的 subjective /səbˈdʒektɪv/ 主观的
-passive /ˈpæsɪv/ 消极的；被动的（2022.1.8 号第 31 题）
+passive /ˈpæsɪv/ 消极的；被动的
 track /træk/ （崎岖不平的）小路；跑道；铁轨；足迹
 summit /ˈsʌmɪt/ 山顶
-breathe /briː ð/ v.呼吸（2016.1.14 号第 1 题）
+breathe /briː ð/ v.呼吸
 breath /breθ/ n.呼吸
 meditation /ˌmedɪˈteɪʃn/ 冥想；沉思；深思
 checkup /ˈtʃekʌp/ 体检
@@ -296,12 +296,12 @@ exterior /ɪkˈstɪəriə/ （尤指建筑物的）外部，外观，表面，�
 interior /ɪnˈtɪəriə/ 内部；里面
 mediator /ˈmiː dieɪtə/ 调停者；斡旋者；解决纷争的人
 ladder
-patience /ˈpeɪʃns/ 耐心（2015.6.27 号第 23 题）
+patience /ˈpeɪʃns/ 耐心
 patient
 frustration
 realism /ˈrɪəlɪzəm/ 现实主义
-starvation /stɑː ˈveɪʃn/ 饥饿；饿死（2022.11.26 号第 33 题） 
-hunger /ˈhʌŋɡə/ 饥饿（2022.12.24 号第 34 题）
+starvation /stɑː ˈveɪʃn/ 饥饿；饿死 
+hunger /ˈhʌŋɡə/ 饥饿
 loyalty /ˈlɔɪəlti/ 忠诚 
 aspiration /ˌæspəˈreɪʃn/ 志向
 ambition /æmˈbɪʃn/ 雄心
@@ -321,24 +321,24 @@ Spain /speɪn/ 西班牙
 Spanish /ˈspænɪʃ/ 西班牙语
 Brazil /brəˈzɪl/ 巴西
 bull /bʊl/ 公牛
-camel /ˈkæml/ 骆驼（2016.2.20 号第 25 题，2022.1.22 号第 8 题，2022.2.19 号第 25 题） 
+camel /ˈkæml/ 骆驼 
 dolphin /ˈdɒlfɪn/ 海豚
-whale /weɪl/ 鲸鱼（2022.12.10 号第 8 题）
+whale /weɪl/ 鲸鱼
 seal /siː l/ 海豹
-goose /ɡuː s/ 鹅（2019.8.31 号第 16 题）复数 geese
-eagle /ˈiː ɡl/ 鹰（2021.1.9 号第 36 题，2022.12.31 号第 32 题）
+goose /ɡuː s/ 鹅复数 geese
+eagle /ˈiː ɡl/ 鹰
 flamingo /fləˈmɪŋɡəʊ/ 火烈鸟
 turtle /ˈtɜː tl/ 龟
 reception desk /rɪˈsepʃn desk/ 接待处
 post /pəʊst/ 职位
 librarian /laɪˈbreəriən/ 图书馆馆长；图书管理员
-department store /dɪˈpɑː tmənt stɔː / 百货公司（2014.12.13 考到）
+department store /dɪˈpɑː tmənt stɔː / 百货公司
 hall of residence /hɔː l əv ˈrezɪdəns/ 学生公寓 
 undergraduate /ˌʌndəˈɡrædʒuət/ 大学本科生 
 ostgraduate /ˌpəʊstˈɡrædʒuət/ 研究生 
 vacancy /ˈveɪkənsi/ 职位空缺
 vacant /ˈveɪkənt/ （职位）空缺的
-footwear /ˈfʊtweə/ 鞋类（2015.8.1 号第 16 题，2015.11.21 号第 14 题）
+footwear /ˈfʊtweə/ 鞋类
 laundry
 commission /kəˈmɪʃn/ 佣金；回扣 
 midday /ˌmɪdˈdeɪ/ 正
